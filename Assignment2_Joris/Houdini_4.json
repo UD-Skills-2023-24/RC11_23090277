@@ -1,0 +1,85 @@
+{
+  "folder": [
+    {
+      "paragraph": "Journeying through the labyrinth of destiny",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "model.obj",
+      "image_n": 15,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "Calamity conveyed in murmurs",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 20,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "Unseen powers manipulating fate",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 25,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "Reverberations from a long-forgotten era",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 30,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "Subtle hints of treachery",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 35,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "A household fractured by revenge",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 10,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "Fidelity and fate interwoven",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 18,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "The demise of an empire",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 40,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    },
+    {
+      "paragraph": "The lingering toll of past misdeeds",
+      "filmID": "PLATERO.mp4",
+      "image_name": "frame",
+      "model_path": "",
+      "image_n": 22,
+      "time": 100,
+      "film_path": "PLATERO Y YO at GALA Hispanic Theatre.mp4"
+    }
+  ]
+}
