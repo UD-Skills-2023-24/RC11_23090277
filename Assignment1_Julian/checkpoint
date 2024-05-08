@@ -1,0 +1,2 @@
+model_checkpoint_path: "database03_video"
+all_model_checkpoint_paths: "database03_video"
